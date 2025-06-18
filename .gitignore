@@ -1,0 +1,193 @@
+# Python #
+# This file specifies files and directories that should be ignored by Git.
+# It is designed to be used in Python projects.
+
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.
+*.aux
+*.bbl
+*.blg
+*.brf
+*.cb
+*.clm
+*.cpy
+*.d
+*.dep
+*.det
+*.dvi
+*.epy
+*.fdb_latexmk
+*.fls
+*.fmt
+*.fot
+*.ftp
+*.glg
+*.glo
+*.gls
+*.gnul
+*.gp
+*.hd
+*.idx
+*.ilg
+*.ind
+*.ini
+*.ipf
+*.k
+*.lg
+*.log
+*.m
+*.mp
+*.mps
+*.mtc
+*.mtc0
+*.nav
+*.nlo
+*.out
+*.p
+*.pdf
+*.prf
+*.ps
+*.res
+*.run.xml
+*.sav
+*.sfg
+*.spl
+*.sta
+*.synctex.gz
+*.tbo
+*.tdo
+*.tex~
+*.thm
+*.toc
+*.upa
+*.vrb
+*.xdv
+*.xwm
+*.zwf
+*.zxx
+_build/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+local/
+man/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PKG-INFO
+EGG-INFO/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editors
+.vscode/        # VS Code
+.idea/          # IntelliJ IDEA
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+.DS_Store       # macOS
+.Trashes        # macOS
+Thumbs.db       # Windows
+ehthumbs.db     # Windows
+*.aux
+*.bak
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz*
+*.blg
+*.bbl
+*.aux
+
+# Python test and coverage
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+
+# MyPy
+.mypy_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# ipython
+profile_default/
+ipython_config.py
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Data and Logs
+*.log
+*.txt
+*.xlsx
+*.xls
+*.sqlite
+*.db
+*.bak
+
+# Specific to Python data science projects
+.ipynb_checkpoints/
+data/
+output/
+models/
+notebooks/
+results/
+temp/
+tmp/
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.joblib
+*.npy
+*.npz
+
+# API Keys and sensitive information
+*.env
+.env.local
+.flaskenv
+.vault
+
+# Miscellaneous
+*~
+*.bak
+*.swp
+*.swo
+.DS_Store
+.localized
+.settings
+.project
+.pydevproject
+
